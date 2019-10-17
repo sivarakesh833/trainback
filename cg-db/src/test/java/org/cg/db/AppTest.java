@@ -1,4 +1,4 @@
-package com.cg;
+package org.cg.db;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
